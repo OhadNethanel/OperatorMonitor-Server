@@ -1,0 +1,10 @@
+<SHERUT>
+  <CurDate>14/11/2023</CurDate>
+  <CurTime>11:30:27</CurTime>
+  <Category>Network</Category>
+  <Name>FTP Connection</Name>
+  <StatusCode>0</StatusCode>
+  <StatusComment>FTP Connection Status</StatusComment>
+  <Comment>FTP server is operational</Comment>
+  <ExpMinute></ExpMinute>
+</SHERUT>

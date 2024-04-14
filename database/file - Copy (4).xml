@@ -1,0 +1,10 @@
+<SHERUT>
+  <CurDate>15/04/2024</CurDate>
+  <CurTime>20:45:09</CurTime>
+  <Category>Elastic</Category>
+  <Name>Kibana Connection</Name>
+  <StatusCode>2</StatusCode>
+  <StatusComment>Kibana Connection Status</StatusComment>
+  <Comment>Kibana dashboard loading slowly</Comment>
+  <ExpMinute>20</ExpMinute>
+</SHERUT>

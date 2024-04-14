@@ -1,0 +1,2 @@
+DIRECTORY=.\database
+REFRESH_EVERY=5000

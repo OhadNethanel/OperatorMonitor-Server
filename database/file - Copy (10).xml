@@ -1,0 +1,10 @@
+<SHERUT>
+  <CurDate>05/09/2024</CurDate>
+  <CurTime>09:18:03</CurTime>
+  <Category>Network</Category>
+  <Name>HTTP Connection</Name>
+  <StatusCode>1</StatusCode>
+  <StatusComment>HTTP Connection Status</StatusComment>
+  <Comment>Intermittent connection issues observed</Comment>
+  <ExpMinute>30</ExpMinute>
+</SHERUT>

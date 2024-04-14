@@ -1,0 +1,10 @@
+<SHERUT>
+  <CurDate>21/07/2023</CurDate>
+  <CurTime>12:35:17</CurTime>
+  <Category>Database</Category>
+  <Name>MySQL Connection</Name>
+  <StatusCode>3</StatusCode>
+  <StatusComment>MySQL Connection Status</StatusComment>
+  <Comment>Database server is responding slowly</Comment>
+  <ExpMinute>10</ExpMinute>
+</SHERUT>

@@ -1,0 +1,10 @@
+<SHERUT>
+  <CurDate>09/12/2023</CurDate>
+  <CurTime>14:55:32</CurTime>
+  <Category>Security</Category>
+  <Name>Antivirus Update</Name>
+  <StatusCode>1</StatusCode>
+  <StatusComment>Antivirus Update Status</StatusComment>
+  <Comment>Antivirus definitions updated successfully</Comment>
+  <ExpMinute></ExpMinute>
+</SHERUT>

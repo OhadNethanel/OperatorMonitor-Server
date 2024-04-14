@@ -1,0 +1,10 @@
+<SHERUT>
+  <CurDate>03/10/2023</CurDate>
+  <CurTime>08:20:14</CurTime>
+  <Category>Network</Category>
+  <Name>SSH Connection</Name>
+  <StatusCode>3</StatusCode>
+  <StatusComment>SSH Connection Status</StatusComment>
+  <Comment>Intermittent connection issues detected</Comment>
+  <ExpMinute>40</ExpMinute>
+</SHERUT>

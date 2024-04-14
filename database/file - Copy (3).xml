@@ -1,0 +1,10 @@
+<SHERUT>
+  <CurDate>30/08/2023</CurDate>
+  <CurTime>17:12:58</CurTime>
+  <Category>Database</Category>
+  <Name>MongoDB Connection</Name>
+  <StatusCode>4</StatusCode>
+  <StatusComment>MongoDB Connection Status</StatusComment>
+  <Comment>Database server is under heavy load</Comment>
+  <ExpMinute>15</ExpMinute>
+</SHERUT>

@@ -1,0 +1,11 @@
+<SHERUT>
+  <CurDate>15/04/2024</CurDate>
+  <CurTime>00:04:49</CurTime>
+  <Category>Elastic</Category>
+  <Name>Elasticsearch Connection</Name>
+  <StatusCode>0</StatusCode>
+  <StatusComment>Elasticsearch Connection Status</StatusComment>
+  <Comment>Expired means elasticsearch did not answer to the last calls :: connection last verified: 15/04/2024 - 00:04:49
+elasticsearch Service under DMZ</Comment>
+  <ExpMinute>15</ExpMinute>
+</SHERUT>

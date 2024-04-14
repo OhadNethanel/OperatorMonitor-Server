@@ -1,0 +1,10 @@
+<SHERUT>
+  <CurDate>15/04/2024</CurDate>
+  <CurTime>06:55:28</CurTime>
+  <Category>Security</Category>
+  <Name>Firewall Status</Name>
+  <StatusCode>4</StatusCode>
+  <StatusComment>Firewall Status</StatusComment>
+  <Comment>Firewall rules updated successfully</Comment>
+  <ExpMinute>20</ExpMinute>
+</SHERUT>
