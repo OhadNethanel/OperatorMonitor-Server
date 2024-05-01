@@ -21,10 +21,6 @@ To get a local copy up and running follow these simple steps.
 
 ### Installation
 
-Certainly! Here's the updated installation section for the README:
-
-### Installation
-
 1. Install Node.js on your local machine if you haven't already.
 2. Open a terminal.
 3. Navigate to the project directory.
