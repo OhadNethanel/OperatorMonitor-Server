@@ -19,7 +19,26 @@ To get a local copy up and running follow these simple steps.
 - Node.js installed on your local machine.
 - A code editor like Visual Studio Code.
 
-### Instal
+### Installation
+
+Certainly! Here's the updated installation section for the README:
+
+### Installation
+
+1. Install Node.js on your local machine if you haven't already.
+2. Open a terminal.
+3. Navigate to the project directory.
+4. Install dependencies:
+
+    ```bash
+    npm install
+    ```
+
+5. Set up environment variables:
+
+    - Create a `.env` file in the root directory.
+    - Define the necessary environment variables, such as `PORT`, `DIRECTORY`, and `REFRESH_EVERY`.
+
 ### Usage
 
 1. Start the server:
